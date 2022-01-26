@@ -2,7 +2,7 @@
 
 This is a card design with extra design and special features.
 
-<img src="./screenshotcard.png" width="250">
+<img src="./card.png" width="250">
 
 ## Getting Started
 
